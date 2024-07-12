@@ -1,0 +1,12 @@
+{
+    "name": "Homework",
+    "type": "directory",
+    "size": 1877,
+    "children": [
+        {
+            "name": "1.py",
+            "type": "file",
+            "size": 1877
+        }
+    ]
+}
